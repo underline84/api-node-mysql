@@ -1,5 +1,6 @@
-# GET http://localhost:3000/produtos 
-# Content-Type: application/json
+GET http://localhost:3000/produtos 
+Content-Type: application/json
+###
 
 GET https://api.github.com/users/underline84 
 Accept: application/vnd.github.v3+json
